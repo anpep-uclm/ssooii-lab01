@@ -1,0 +1,12 @@
+*
+!/.clang-format
+!/.gitignore
+!/estudiantes.txt
+!/Makefile
+!/exec
+!/src
+!/obj
+!/examenes
+!/log.txt
+!/COPYING
+!/README.md
